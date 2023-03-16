@@ -1,4 +1,4 @@
-# landing
+# Econpmía Domesticada
 
 ## Propuesta de Valor
 Un espacio para mujeres que quieren tomar el poder de su vida económica a través de la educación en un ambiente confidencial y sin críticas
