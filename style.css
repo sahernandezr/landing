@@ -34,8 +34,19 @@ p a {
   margin: auto;
 }
 
+.navbar {
+  background: #EA25AC;
+  text-align: left;
+  padding: 4px 0 4px 4px;
+  overflow: hidden;
+}
+
+.navbar p {
+  color: #7CF96B;
+}
+
 .banner {
-  background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('images/banner.png');
+  background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url('images/banner.png');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -44,7 +55,7 @@ p a {
 }
 
 .banner h1 {
-  color:  #EA25AC;
+  color:  #121212;
   font-size: 45px;
   margin: 0;
 }
